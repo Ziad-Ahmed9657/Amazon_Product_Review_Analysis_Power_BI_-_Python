@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/6ea97252-1dff-4dce-afb9-ff947977dc1c
 
 🔟know average Rating (stars) per category 
 
-Linked-In Profile: https://www.linkedin.com/in/ziad-ahmed-gharieb-327a87275/
+🔗Linked-In Profile: https://www.linkedin.com/in/ziad-ahmed-gharieb-327a87275/
 ## Freelance Websites:
 ### Kamsat: 
 https://khamsat.com/user/zeyad_7ahmed
