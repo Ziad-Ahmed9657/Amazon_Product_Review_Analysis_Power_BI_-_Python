@@ -52,6 +52,9 @@ https://github.com/user-attachments/assets/6ea97252-1dff-4dce-afb9-ff947977dc1c
 
 Linked-In Profile: https://www.linkedin.com/in/ziad-ahmed-gharieb-327a87275/
 ## Freelance Websites:
-Kamsat: https://khamsat.com/user/zeyad_7ahmed
-Upwork: https://www.upwork.com/freelancers/~01d8822699a3c3490c
+### Kamsat: 
+https://khamsat.com/user/zeyad_7ahmed
+
+### Upwork: 
+https://www.upwork.com/freelancers/~01d8822699a3c3490c
 
