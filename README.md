@@ -8,6 +8,10 @@ I`m very excited to share my third project in data analysis using Python and Pow
 
 ![Category Performance](https://github.com/user-attachments/assets/306f817a-75f2-484a-8540-19352668f095)
 
+## Video
+
+https://github.com/user-attachments/assets/6ea97252-1dff-4dce-afb9-ff947977dc1c
+
 ## Project Workflow:
 ### Python:
 ✅Understanding Data & Features
